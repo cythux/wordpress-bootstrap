@@ -1,4 +1,4 @@
-# Bootstrap 3 Wordpress Theme
+Bootstrap 3 Wordpress Theme
 
 This Theme based on the tutorial from
 http://www.elmastudio.de/tutorials/wordpress-theme-mit-bootstrap-entwickeln-tutorial-fuer-einsteiger/#
