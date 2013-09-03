@@ -14,6 +14,8 @@
 function bootstrap_scripts() {
   wp_enqueue_style('bootstrap_main', get_template_directory_uri() . '/css/bootstrap.css', false, 'c9f2155733c68254f446eb06faa23581');
 
+  wp_enqueue_style('bootstrap_main', get_template_directory_uri() . '/css/app.css', false, 'c9f2155733c68254f446eb06faa23581');
+
   // jQuery is loaded using the same method from HTML5 Boilerplate:
   // Grab Google CDN's latest jQuery with a protocol relative URL; fallback to local if offline
   // It's kept in the header instead of footer to avoid conflicts with plugins.

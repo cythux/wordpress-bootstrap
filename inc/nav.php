@@ -54,7 +54,7 @@ class Bootstrap_Nav_Walker extends Walker_Nav_Menu {
  * Clean up wp_nav_menu_args
  *
  * Remove the container
- * Use bootstrap_Nav_Walker() by default
+ * Use Roots_Nav_Walker() by default
  */
 
 function bootstrap_nav_menu_args($args = '') {
